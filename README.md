@@ -272,9 +272,11 @@ Machine Learning
 
 ---
 
+## GitHub Trophies
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jyotikarao2006-web&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies"/>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jyotikarao2006-web&theme=radical)](https://github.com/jyotikarao2006-web)
 
 </div>
 
