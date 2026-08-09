@@ -29,19 +29,6 @@ I enjoy understanding how systems work internally and turning ideas into usable 
 
 > Build. Understand. Improve. Ship.
 
----
-
-# 🌐 Socials
-
-<p align="left">
-<a href="https://github.com/jyotikarao2006-web">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-<a href="https://mastodon.social/@Jyotika">
-<img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon">
-</a>
-</p>
 
 ---
 
