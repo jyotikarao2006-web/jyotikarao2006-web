@@ -1,96 +1,108 @@
-# 💫 About Me
+# Jyotika Rao
 
-### Jyotika Rao
+**AI/ML Developer · Full-Stack Engineer · Generative AI Practitioner**
 
-**AI/ML Developer | Full-Stack Developer | GenAI Enthusiast**
+I turn complex data into intelligent, production-ready systems. With a strong foundation in machine learning, deep learning, and modern backend development, I build end-to-end solutions that bridge research and real-world impact — from training models and designing RAG pipelines to deploying scalable APIs and full-stack applications.
 
-I build practical, intelligent systems that apply AI to real-world problems. My work spans the complete development lifecycle — from data preprocessing and model development to backend APIs, databases, and application deployment.
-
-### Areas of Interest
-
-- Machine Learning & Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI & Intelligent Workflows
-- Backend & Full-Stack Development
-
-### Currently Exploring
-
-- RAG Pipelines
-- LangChain & LangGraph
-- LLM Fine-Tuning
-- AI Agents
-- Advanced Deep Learning
-- Model Deployment
-
-I enjoy understanding how systems work internally and turning ideas into usable software.
-
-> Build. Understand. Improve. Ship.
-
+I care about clarity, reliability, and building AI that actually solves problems.
 
 ---
 
-# 💻 Tech Stack
+## 🚀 What I Do
 
-### Languages
+- **Machine Learning & Deep Learning** — Designing, training, and evaluating models for structured and unstructured data.
+- **Computer Vision** — Building image classification, object detection, and visual understanding pipelines.
+- **Natural Language Processing** — Working with transformers, embeddings, text classification, and sequence modeling.
+- **Generative AI & LLMs** — Developing RAG systems, AI agents, and fine-tuned language model applications.
+- **Full-Stack Development** — Creating robust backends, RESTful APIs, databases, and clean frontend interfaces.
+- **Model Deployment** — Packaging and deploying ML models into production-ready services.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
+
+## 💡 My Focus
+
+I enjoy understanding how intelligent systems work under the hood and translating ideas into clean, usable software. Whether it's improving model performance, structuring data pipelines, or designing intuitive APIs, I focus on building practical AI products that are accurate, maintainable, and ready to scale.
+
+> **Build. Understand. Improve. Ship.**
+
+---
+
+## 🛠 Skills & Tech Stack
 
 ### Machine Learning & Data Science
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=fff&style=flat)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=fff&style=flat)
+![Scikit--Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikitlearn&logoColor=fff&style=flat)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?logo=matplotlib&logoColor=fff&style=flat)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4c72b0?logo=python&logoColor=fff&style=flat)
 
 ### Deep Learning
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=flat)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=fff&style=flat)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=flat)
 
-**Architectures:** CNN • RNN • LSTM • GRU
+**Architectures:** CNN · RNN · LSTM · GRU · Transformers
 
 ### Computer Vision
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=fff&style=flat)
+![Pillow](https://img.shields.io/badge/-Pillow-010101?logo=python&logoColor=fff&style=flat)
 
-### Generative AI
+### Natural Language Processing
 
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge)
-![Unsloth](https://img.shields.io/badge/Unsloth-000000?style=for-the-badge)
+![NLTK](https://img.shields.io/badge/-NLTK-154f5b?logo=python&logoColor=fff&style=flat)
+![spaCy](https://img.shields.io/badge/-spaCy-09A3D5?logo=spacy&logoColor=fff&style=flat)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?logo=huggingface&logoColor=000&style=flat)
+
+### Generative AI & LLMs
+
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=langchain&logoColor=fff&style=flat)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=fff&style=flat)
+![Google Gemini](https://img.shields.io/badge/-Google%20Gemini-8E75B2?logo=googlegemini&logoColor=fff&style=flat)
 
 ### Backend & Databases
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=fff&style=flat)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff&style=flat)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=fff&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
 
-### Tools
+### Languages & Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=fff&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff&style=flat)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat)
 
---- 
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=jyotikarao2006-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=jyotikarao2006-web&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jyotikarao2006-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jyotikarao2006-web&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotikarao2006-web&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="165" />
+</p>
+
+---
+
+## 📬 Get In Touch
+
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff&style=flat)](mailto:jyotikarao2006@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://linkedin.com/in/jyotika-rao)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=githubpages&logoColor=fff&style=flat)](https://jyotikarao2006-web.github.io)
+
+I'm always open to discussing AI/ML projects, research collaborations, or full-stack engineering opportunities.
+
+---
+
+*Thanks for visiting my profile. Feel free to explore my repositories and reach out if you'd like to collaborate.*
 
 
