@@ -89,7 +89,7 @@ I enjoy understanding how intelligent systems work under the hood and translatin
 
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff&style=flat)](mailto:jyotikarao2006@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://linkedin.com/in/jyotika-rao)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://resume-jyotika.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://resume-jyotika.vercel.app/)
 
 I'm always open to discussing AI/ML projects, research collaborations, or full-stack engineering opportunities.
 
