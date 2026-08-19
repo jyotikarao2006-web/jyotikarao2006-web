@@ -84,20 +84,12 @@ I enjoy understanding how intelligent systems work under the hood and translatin
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jyotikarao2006-web&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotikarao2006-web&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="165" />
-</p>
-
----
 
 ## 📬 Get In Touch
 
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff&style=flat)](mailto:jyotikarao2006@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://linkedin.com/in/jyotika-rao)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=githubpages&logoColor=fff&style=flat)](https://jyotikarao2006-web.github.io)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=githubpages&logoColor=fff&style=flat)](https://resume-jyotika.vercel.app/)
 
 I'm always open to discussing AI/ML projects, research collaborations, or full-stack engineering opportunities.
 
